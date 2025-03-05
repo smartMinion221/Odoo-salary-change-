@@ -3,32 +3,6 @@
   <h3>Odoo module that allows you to export a report of salary changes for employees to Excel.</h3>
 </div>
 
-<p align="center">
-  <a href="https://github.com/fraineralex/salary_changes_report/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/fraineralex/salary_changes_report?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/fraineralex/salary_changes_report/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/fraineralex/salary_changes_report?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/fraineralex/salary_changes_report/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/fraineralex/salary_changes_report?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/fraineralex/salary_changes_report/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/fraineralex/salary_changes_report?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/fraineralex/salary_changes_report/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/fraineralex/salary_changes_report?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/fraineralex/salary_changes_report/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/fraineralex/salary_changes_report?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-</p>
-
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
@@ -93,16 +67,6 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 ## :checkered_flag: Starting ##
 
-```bash
-# Clone this project
-    $ git clone https://github.com/fraineralex/salary_changes_report
-# Access
-    $ cd salary_changes_report
-# Install dependencies
-    $ pip install xlwt
-# Run the project
-# The server will execute and you will see the modal wizard in hr payroll module -> reporting -> Reporte de Cambios Salariales
-```
 
 ## :handshake: Contributions
 
